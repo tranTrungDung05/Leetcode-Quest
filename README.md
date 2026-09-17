@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
