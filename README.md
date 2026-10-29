@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0485-max-consecutive-ones) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
