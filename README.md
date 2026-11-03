@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1470-shuffle-the-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Tree
 |  |
 | ------- |
