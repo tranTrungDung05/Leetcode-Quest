@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0645-set-mismatch) |
+| [1267-count-servers-that-communicate](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1470-shuffle-the-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -57,12 +59,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0101-symmetric-tree) |
+| [1267-count-servers-that-communicate](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0101-symmetric-tree) |
+| [1267-count-servers-that-communicate](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0101-symmetric-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
