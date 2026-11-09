@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1470-shuffle-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1267-count-servers-that-communicate) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
