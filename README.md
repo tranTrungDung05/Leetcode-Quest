@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/1470-shuffle-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/2089-find-target-indices-after-sorting-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tranTrungDung05/Leetcode-Quest/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
